@@ -11,9 +11,8 @@ promotions.
 
 An attached file is the dataset that is offered by the company (churn_predict.csv).
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/68501e55-6835-44aa-88a1-12a5607260a3/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/ac07e3c8-4ba5-429a-a40c-e81b37609dd1/Untitled.png)
+![alt](https://github.com/khoatna065/ML_Churned_Users_Prediction/assets/167158955/6858c807-796f-444f-ac8c-03899d4824e0)
+![alt](https://github.com/khoatna065/ML_Churned_Users_Prediction/assets/167158955/b2b78cd6-59c4-4463-88d9-baddf013821e)
 
 ## 3. Method
 
