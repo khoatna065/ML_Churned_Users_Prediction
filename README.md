@@ -24,12 +24,12 @@ Supervised learning with Scikit-learn on Python
 1. Import libraries and dataset
 2. Check imbalanced data
 - The churned variable is about 16.84%  of total → Quite imbalanced so still process ML model as normal.
-1. Data wrangling
+3. Data wrangling
 - No duplicate values is found.
 - The variables have missing values: Tenure, WarehouseToHome, HourSpendOnApp, OrderAmountHikeFromlastYear, CouponUsed, OrderCount, DaySinceLastOrder. ⇒ replace null values with appropriate values.
 - Change data type of CustomerID into object.
-1. EDA 
-2. Feature transforming
+4. EDA 
+5. Feature transforming
 
 # III. Model training and evaluation
 
